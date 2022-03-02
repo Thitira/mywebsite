@@ -9,11 +9,11 @@
     }
     @font-face{
       font-family: myFont1;
-      src: url(MiPancake.woff)
+      src: url(MiPancake.ttf)
     }
      @font-face{
       font-family: myFont2;
-      src: url(Lpj_font1-Regular.woff)
+      src: url(SOVc_PhaKhawMa.ttf)
     }
     #font1{
       font-family: myFont1;
